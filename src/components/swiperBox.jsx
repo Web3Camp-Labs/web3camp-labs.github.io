@@ -5,9 +5,9 @@ import "swiper/css/pagination";
 import "swiper/css/navigation";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { FreeMode, Pagination, Navigation } from "swiper/modules";
-import AdImg3 from "../assets/images/news/daopark.png";
-import AdImg1 from "../assets/images/news/rebase.png";
-import AdImg2 from "../assets/images/news/seedao.png";
+import QuickDappImg from "../assets/images/news/quick-dapp.png";
+import MultisenderImg from "../assets/images/news/multisender.png";
+import HardhatImg from "../assets/images/news/hardhat-metamask-connector.jpg";
 
 const AdvLine = styled.ul`
     display: flex;
@@ -57,18 +57,18 @@ export default function SwiperBox(){
             >
                 <SwiperSlide >
                     <li>
-                        <a href="https://www.eventbrite.hk/e/dao-montenegro-tickets-626996241637" target="_blank" rel="noreferrer"> <img src={AdImg2} alt=""/></a>
+                        <a href="https://web3camp.us/quick-dapp/" target="_blank" rel="noreferrer"> <img src={QuickDappImg} alt="Quick dApp"/></a>
                     </li>
                 </SwiperSlide>
                 <SwiperSlide >
                     <li>
-                        <a href="https://rebase.network/posts/3227" target="_blank" rel="noreferrer"> <img src={AdImg1} alt=""/></a>
+                        <a href="https://web3camp.us/multisender/" target="_blank" rel="noreferrer"> <img src={MultisenderImg} alt="MultiSender"/></a>
                     </li>
                 </SwiperSlide>
 
                 <SwiperSlide >
                     <li>
-                        <a href="https://daopark.xyz/" target="_blank" rel="noreferrer"> <img src={AdImg3} alt=""/></a>
+                        <a href="https://www.npmjs.com/package/@web3camp/hardhat-metamask-connector" target="_blank" rel="noreferrer"> <img src={HardhatImg} alt="Hardhat MetaMask Connector"/></a>
                     </li>
                 </SwiperSlide>
             </Swiper>
