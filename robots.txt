@@ -1,9 +1,3 @@
-# *
+# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Allow: /
-
-# Host
-Host: https://web3camp.us
-
-# Sitemaps
-Sitemap: https://web3camp.us/sitemap.xml
+Disallow:
