@@ -1,0 +1,110 @@
+[
+  {
+    "href": "https://web3camp.us/quick-dapp/",
+    "logo": "./assets/logo/quick-dapp.png",
+    "name": "Quick dApp",
+    "description": "Quick dApp allows smart contract developers to quickly create interactive UIs for any Ethereum smart contract by providing ABI and address."
+  },
+  {
+    "href": "https://web3camp.us/multisender/",
+    "logo": "./assets/logo/multisender.png",
+    "name": "Token Batch Sender",
+    "description": "It supports sending ERC20 tokens and ETH!"
+  },
+  {
+    "href": "https://www.npmjs.com/package/@web3camp/hardhat-metamask-connector",
+    "logo": "./assets/logo/hardhat-metamask-connector.jpg",
+    "name": "Hardhat Metamask Connector",
+    "description": "A Hardhat plugin that enables seamless integration with MetaMask for smart contract development and testing."
+  },
+  {
+    "href": "https://web3camp.us/ETH-Wallet-Generator/",
+    "logo": "./assets/logo/eth-diamond-black-white.jpeg",
+    "name": "ETH Wallet Generator",
+    "description": "Generate ETH Wallet Address in pure webpage from scratch!"
+  },
+  {
+    "href": "https://web3camp.us/nft-checker/",
+    "logo": "./assets/logo/nft-checker.png",
+    "name": "NFT Checker",
+    "description": "Verify and Source NFT Metadata"
+  },
+  {
+    "href": "https://web3camp.us/Solana-NFT-Rreact",
+    "logo": "./assets/logo/solana-nft.png",
+    "name": "Solana NFT",
+    "description": "Issuing NFTs on the Solana blockchain"
+  },
+  {
+    "href": "https://web3camp.us/inscribe/",
+    "logo": "./assets/logo/inscribe.png",
+    "name": "Inscribe",
+    "description": "Quickly generate BRC20 inscription."
+  },
+  {
+    "href": "https://web3camp.us/Polkadot-Wallet-Generator/",
+    "logo": "./assets/logo/polkadot.png",
+    "name": "Polkadot Wallet Generator",
+    "description": "Generate Polkadot Wallet Address with @Polkadot/api !"
+  },
+  {
+    "href": "https://web3camp.us/signator/",
+    "logo": "./assets/logo/signator.png",
+    "name": "Signator",
+    "description": "A simple app that lets you sign a message with an Ethereum account "
+  },
+  {
+    "href": "https://web3camp.us/ethers-tool/",
+    "logo": "./assets/logo/ethers-tools.png",
+    "name": "Ethers tools",
+    "description": "Online web3 tools using ethers.js"
+  },
+  {
+    "href": "https://web3camp.us/Turbo-deploy/",
+    "logo": "./assets/logo/turbo-deploy.png",
+    "name": "Turbo Deploy",
+    "description": "Easily deploy Smart Contract for an ERC20 Token on Ethereum Network.No login. No setup. No coding required."
+  },
+  {
+    "href": "https://web3camp.us/web3pay/",
+    "logo": "./assets/logo/web3pay-logo.png",
+    "name": "Web3pay",
+    "description": "The right way to integrate web3 pay"
+  },
+  {
+    "href": "https://web3camp.us/rpc-list/",
+    "logo": "./assets/logo/rpc-logo.svg",
+    "name": "RPC",
+    "description": "This list show all your configured chains."
+  },
+  {
+    "href": "https://web3camp.us/faucet-list/",
+    "logo": "./assets/logo/faucet.png",
+    "name": "Faucet",
+    "description": "Token faucet web app various tokens."
+  },
+  {
+    "href": "https://web3camp.us/oneclick-dapp/",
+    "logo": "./assets/logo/oneclick.png",
+    "name": "OneClick dApp",
+    "description": "OneClick dApp is a tool for smart contract developers to interactive with any smart contracts easily and quickly with one click!"
+  },
+  {
+    "href": "https://chainlist.web3camp.us/",
+    "logo": "./assets/logo/chainlist.png",
+    "name": "Chainlist",
+    "description": "Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain."
+  },
+  {
+    "href": "https://web3camp.us/batch-query/",
+    "logo": "./assets/logo/query.png",
+    "name": "Query",
+    "description": "Batch query native/ERC20 token amount ,import/export csv file."
+  },
+  {
+    "href": "https://web3camp.us/LogoCollection/",
+    "logo": "./assets/logo/cryptologs-black.png",
+    "name": "Logo Collection",
+    "description": "High Quality Cryptocurrency Logos"
+  }
+]

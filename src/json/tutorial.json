@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Web3.js",
+    "image": "./assets/stack/web3js.png",
+    "desc": "Web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.",
+    "link": "https://docs.web3js.org/"
+  },
+  {
+    "name": "Ethers.js",
+    "image": "./assets/stack/ethers.png",
+    "desc": " The ethers.js is a simple, compact and complete library for all your Ethereum needs.",
+    "link": "https://ethers.org/"
+  },
+  {
+    "name": "Polkadot.js",
+    "image": "./assets/stack/polkadot.png",
+    "desc": "Polkadot.js is an effort to provide a collection of tools, utilities and libraries for interacting with the Polkadot network from JavaScript.",
+    "link": "https://polkadot.js.org/docs/"
+  },
+  {
+    "name": "Solidity",
+    "image": "./assets/stack/solidity.png",
+    "desc": " Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs that govern the behavior of accounts within the Ethereum state.",
+    "link": "https://docs.soliditylang.org/en/latest/"
+  },
+  {
+    "name": "Metamask",
+    "image": "./assets/stack/metamask.png",
+    "desc": "MetaMask is the leading self-custodial wallet. The safe and simple way to access blockchain applications and web3. Trusted by millions of users worldwide.",
+    "link": "https://docs.metamask.io/wallet/"
+  },
+  {
+    "name": "Hardhat",
+    "image": "./assets/stack/hardhat.png",
+    "desc": "Hardhat is a development environment for Ethereum software, for editing, compiling, debugging and deploying your smart contracts and dApps.",
+    "link": "https://hardhat.org/docs"
+  },
+  {
+    "name": "Nodejs",
+    "image": "./assets/stack/nodejs.png",
+    "desc": "Node.js is an open-source, cross-platform JavaScript runtime environment.",
+    "link": "https://nodejs.org/en/docs"
+  },
+  {
+    "name": "React",
+    "image": "./assets/stack/react.png",
+    "desc": "The library for web and native user interfaces",
+    "link": "https://react.dev/learn"
+  },
+  {
+    "name": "Javascript",
+    "image": "./assets/stack/JavaScript.png",
+    "desc": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language . While it is most well-known as the scripting language for Web pages, many non-browser environments also use it.",
+    "link": "https://www.javascript.com/learn/strings"
+  },
+  {
+    "name": "Css3",
+    "image": "./assets/stack/CSS3.png",
+    "desc": "CSS describes how HTML elements should be displayed.CSS3 adds several new styling features and improvements to enhance the web presentation capabilities.",
+    "link": "https://www.css3.com/"
+  },
+  {
+    "name": "HTML5",
+    "image": "./assets/stack/html5.png",
+    "desc": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final major HTML version that is a World Wide Web Consortium (W3C) recommendation. ",
+    "link": "https://html5.org/"
+  },
+  {
+    "name": "Typescript",
+    "image": "./assets/stack/Typescript.png",
+    "desc": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale. ",
+    "link": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"
+  },
+  {
+    "name": "Sass",
+    "image": "./assets/stack/sass.png",
+    "desc": "CSS with superpowers. Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+    "link": "https://sass-lang.com/documentation/"
+  },
+  {
+    "name": "Github actions",
+    "image": "./assets/stack/action.png",
+    "desc": "GitHub Actions  build, test, and deploy your code right from GitHub. Make code reviews, branch management, and issue triaging work the way you want.",
+    "link": "https://docs.github.com/en/actions"
+  },
+  {
+    "name": "The graph",
+    "image": "./assets/stack/thegraph.png",
+    "desc": "The Graph is an indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.",
+    "link": "https://thegraph.com/docs/en/"
+  }
+]

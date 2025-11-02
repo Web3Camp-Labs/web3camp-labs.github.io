@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Builder cohorts",
+    "subtitle": "with",
+    "logo": "./assets/resource/buildspace.png",
+    "link": "https://buildspace.so"
+  },
+  {
+    "title": "STARTUP SCHOOL",
+    "subtitle": "From",
+    "logo": "./assets/resource/al6z.png",
+    "link": "https://a16z.com/crypto-startup-school"
+  },
+  {
+    "title": "INDUSTRY RESEARCH",
+    "subtitle": "From",
+    "logo": "./assets/resource/paradigm.png",
+    "link": "https://www.paradigm.xyz/writing"
+  },
+  {
+    "title": "INDUSTRY INSIGHTS",
+    "subtitle": "From",
+    "logo": "./assets/resource/pantera.png",
+    "link": "https://panteracapital.com/insights"
+  }
+]

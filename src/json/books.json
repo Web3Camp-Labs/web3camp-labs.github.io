@@ -1,0 +1,551 @@
+{
+    "items": [
+      {
+        "title": "Build a Blockchain from Scratch in Go",
+        "description": "Follow the story of a software developer who is looking to revolutionize his local bar by implementing blockchain technology for its payment system.",
+        "authors": [
+          "@Web3Coach"
+        ],
+        "tags": [
+          "Cryptography"
+        ],
+        "languages": [
+          "Go"
+        ],
+        "url": "https://web3coach.gumroad.com/l/build-a-blockchain-from-scratch-in-go",
+        "dateAdded": 1629331200000,
+        "level": "Beginner",
+        "date": 1590969600000,
+        "id": "build-a-blockchain-from-scratch-in-go",
+        "featured": false,
+        "content": "\nWhat will you build?\n1) You will build a peer-to-peer system from scratch\n2) You will secure the system with a day-to-day practical cryptography\n3) You will implement Bitcoin and Ethereum backend components\n4) You will write unit tests and integration tests for all core components\n",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+
+      {
+        "title": "Coding Democracy",
+        "description": "How Hackers Are Disrupting Power, Surveillance, and Authoritarianism",
+        "authors": [
+          "Maureen Webb"
+        ],
+        "tags": [
+          "Governance"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3CkYQIv",
+        "dateAdded": 1672876800000,
+        "level": "All",
+        "alternateUrl": "https://www.goodreads.com/book/show/52620935-coding-democracy",
+        "id": "coding-democracy",
+        "featured": false,
+        "content": "\n**Hackers as vital disruptors, inspiring a new wave of activism in which ordinary citizens take back democracy.**\n\nHackers have a bad reputation, as shady deployers of bots and destroyers of infrastructure. In Coding Democracy, Maureen Webb offers another view. Hackers, she argues, can be vital disruptors. Hacking is becoming a practice, an ethos, and a metaphor for a new wave of activism in which ordinary citizens are inventing new forms of distributed, decentralized democracy for a digital era. Confronted with concentrations of power, mass surveillance, and authoritarianism enabled by new technology, the hacking movement is trying to “build out” democracy into cyberspace.\n\nWebb travels to Berlin, where she visits the Chaos Communication Camp, a flagship event in the hacker world; to Silicon Valley, where she reports on the Apple-FBI case, the significance of Russian troll farms, and the hacking of tractor software by desperate farmers; to Barcelona, to meet the hacker group XNet, which has helped bring nearly 100 prominent Spanish bankers and politicians to justice for their role in the 2008 financial crisis; and to Harvard and MIT, to investigate the institutionalization of hacking. Webb describes an amazing array of hacker experiments that could dramatically change the current political economy. These ambitious hacks aim to displace such tech monoliths as Facebook and Amazon; enable worker cooperatives to kill platforms like Uber; give people control over their data; automate trust; and provide citizens a real say in governance, along with capacity to reach consensus. Coding Democracy is not just another optimistic declaration of technological utopianism; instead, it provides the tools for an urgently needed upgrade of democracy in the digital era.\n",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations",
+        "description": "The book aims to help you get your head around blockchains in general and around Ethereum specifically as it's the preeminent blockchain.",
+        "authors": [
+          "@hdiedrich"
+        ],
+        "tags": [
+          "Smart Contracts",
+          "Dapp",
+          "DAO"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3zDnDEW",
+        "dateAdded": 1641686400000,
+        "level": "All",
+        "date": 1473292800000,
+        "id": "ethereum-blockchains-digital-assets-smart-contracts-decentralized-autonomous-organizations",
+        "featured": false,
+        "content": "\nAs IBM´s official liaison to the Ethereum core developers I gave talks on blockchain topics pretty much around the world. After one keynote I was asked for a non-technical guide to understand blockchains. This is it.\n\nThe book aims to help you get your head around blockchains in general and around Ethereum specifically. Since Ethereum is currently the pre-imminent blockchain, it makes sense as reference point. The essential stuff is the same for any blockchain.\n\nThis text was written for people with a fast grasp, who are not programmers. Reading this should give you the basics to cut through the hype and to identify blockchain opportunities in your professional domain. There are tiny bits of code, which can be admired and skipped.\n\nWe´ll look at Ethereum´s benefits first, how it is used and what can be done with it; then explain blockchain machinery, visiting the terms that you´ll be confronted with in every discussion about its application. Exactly what you need to tell the signal from the noise in the echo chamber of honest misunderstandings and desperate marketing.\n\nWe take a good hard look at limitations, throw in some history and names and give a realistic outlook.\n\nThe index reads like an FAQ and you can use the book like that. However, there is a strong build up, one chapter leading to the next, as optimized path to understanding all the interconnected, moving parts. There´s quite a number of them.\n\nBlockchains are not a trivial topic. The fact that blockchain client programs are small has fooled many people into believing it can´t possibly be that hard. The challenges are in the implications though.\n\nBut what’s in this book will put you ahead of almost everyone outside the core bubble.\n\nA deep dive into this field now – at least getting started – will help you to become part of the fun ahead. It should allow you to stand out, land deals or a great job.\n\nIt will also make you see first hand how early we are in the game.\n\nHopefully, we will find a contributor to the blockchain community in you, strengthening the portfolio of real-world use cases. Ideally, you´ll learn to navigate your own uncharted course through your domain and revolutionize it.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Ethereum for Web Developers",
+        "description": "Learn to Build Web Applications on top of the Ethereum Blockchain",
+        "authors": [
+          "@smpalladino"
+        ],
+        "tags": [
+          "Smart Contracts",
+          "Dapp"
+        ],
+        "languages": [
+          "Solidity",
+          "JavaScript"
+        ],
+        "url": "https://amzn.to/2YbZVBG",
+        "dateAdded": 1628640000000,
+        "level": "Beginner",
+        "date": 1569456000000,
+        "alternateUrl": "https://www.goodreads.com/book/show/52265621-ethereum-for-web-developers",
+        "id": "ethereum-for-web-developers",
+        "featured": false,
+        "content": "\nTechnology is constantly evolving, and blockchain is taking development to new places, as mobile did a decade ago – and Ethereum is the leading platform for creating this new wave of applications. This book reveals everything you need to create a robust decentralized application (more commonly known as DApp). Unlike other books on the topic, this one focuses on the web application layer, and guides you in creating great experiences on top of the Ethereum blockchain. You’ll review the challenges and differences involved in developing DApps as opposed to traditional web applications. \n\nAfter a brief introduction to blockchain history and Ethereum in particular, you’ll jump directly into building a sample decentralized application, to familiarize yourself with all the moving pieces. This book offers specific chapters on querying and rendering data from the blockchain, reacting to events, interacting with user accounts, sending transactions, managing gas, handling confirmations and reorganizations, and more. You will also find a chapter dedicated to Solidity that will give you the necessary means to understand and even build your own smart contracts. \nOther important topics covered include building backend servers that act as indexing layers, and managing storage efficiently with solutions like the interplanetary file system, or IPFS. Last but not least, you will find chapters that examine the biggest problems on Ethereum today: onboarding and scalability. These include the state of the art of the available strategies to tackle them, such as meta-transactions, smart accounts, ENS, state channels, sidechains, and more.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+
+
+
+      {
+        "title": "How to DeFi: Advanced",
+        "description": "Decentralized Finance is taking over the world. Learn how to get started and join the revolution.",
+        "authors": [
+          "@coingecko",
+          "@Darrenlautf"
+        ],
+        "tags": [
+          "DeFi"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3osVr4i",
+        "dateAdded": 1628640000000,
+        "level": "Intermediate",
+        "date": 1625097600000,
+        "alternateUrl": "https://www.goodreads.com/book/show/58512673-how-to-defi",
+        "id": "how-to-defi-advanced",
+        "featured": false,
+        "content": "\nDecentralized Finance (DeFi) has already existed since 2018, but it has recently witnessed a surge in popularity in the first half of 2021 with no ceiling in sight. Use this book to gain insight into the novel financial innovations enabled by DeFi. Join us in this exciting adventure of redefining finance.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "How to DeFi",
+        "description": "Decentralized Finance is taking over the world. Learn how to get started and join the revolution.",
+        "authors": [
+          "@coingecko",
+          "@Darrenlautf"
+        ],
+        "tags": [
+          "DeFi"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3uFEaFZ",
+        "dateAdded": 1628640000000,
+        "level": "Beginner",
+        "date": 1625097600000,
+        "alternateUrl": "https://www.goodreads.com/book/show/53530922-how-to-defi",
+        "id": "how-to-defi",
+        "featured": false,
+        "content": "\nDecentralized Finance (DeFi) is fast disrupting the traditional financial sector. This updated version of How To DeFi is a must-read book for anyone looking to learn DeFi. It is packed with simple explanations and step-by-step guides to help you understand and get started in this fast-developing ecosystem.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Building ethereum dapps decentralized applications on the ethereum blockchain",
+        "description": "In this book, you'll learn the principles of Dapps development by rolling up your sleeves and actually building a few!",
+        "authors": [
+          "@Robertinfante"
+        ],
+        "tags": [
+          "Dapp",
+          "Smart Contracts"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3f22DhQ",
+        "dateAdded": 1640908800000,
+        "level": "All",
+        "date": 1486684800000,
+        "id": "building-ethereum-dapps-decentralized-applications-on-the-ethereum-blockchain",
+        "featured": false,
+        "content": "\nBuilding Ethereum Dapps teaches Dapps development on the Ethereum blockchain platform. You'll begin with a mental model of how Dapps operate, and then dive into designing and implementing smart contracts in Ethereum's Solidity language. You'll explore Ethereum smart contract development tools, like Truffle and Web3, and pick up best practices for design and security. Practical exercises throughout give you valuable hands-on experience. ",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Lexon: Digital Contracts",
+        "description": "In non-technical terms, this book explains Digital Contracts: legally enforceable smart contracts that anyone can read.",
+        "authors": [
+          "@hdiedrich"
+        ],
+        "tags": [
+          "Smart Contracts"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/34pfBUE",
+        "dateAdded": 1641686400000,
+        "level": "All",
+        "date": 1570233600000,
+        "id": "lexon-digital-contracts",
+        "featured": false,
+        "content": "\nIn non-technical terms, this book explains Digital Contracts: legally enforceable smart contracts that anyone can read.\n\nYou do NOT need prior knowledge about blockchains.\n\nThe book outlines the concept, gives examples, provides links to online tools that help to write, sign, deploy and manage digital contracts on the blockchain. Lexon’s grammar, vocabulary and document structure are illustrated. Lexon's paradigm is explained, including how it differs from other programming languages, staying closer to human thought. Lexon’s relationship to Computational Law and AI is discussed and applications and benefits are detailed. The appendix lists notable steps towards human-readability by other programming languages, complemented with notes on constructed human languages.\n",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Foundry Book",
+        "description": "A book on all things Foundry, a smart contract development toolchain.",
+        "authors": [
+          "@onbjerg"
+        ],
+        "tags": [
+          "Smart Contracts"
+        ],
+        "languages": [
+          "Rust",
+          "Solidity"
+        ],
+        "url": "https://book.getfoundry.sh/",
+        "dateAdded": 1645488000000,
+        "level": "Beginner",
+        "id": "foundry-book",
+        "featured": false,
+        "content": "\nFoundry is a smart contract development toolchain. Foundry manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with the chain from the command-line.\n",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Life After Google",
+        "description": "The Fall of Big Data and the Rise of the Blockchain Economy",
+        "authors": [
+          "George Gilder"
+        ],
+        "tags": [],
+        "languages": [],
+        "url": "https://amzn.to/3o4ZSl2",
+        "dateAdded": 1638230400000,
+        "level": "All",
+        "date": 1531785600000,
+        "id": "life-after-google",
+        "featured": false,
+        "content": "\nThe Age of Google, built on big data and machine intelligence, has been an awesome era. But it’s coming to an end. In Life after Google, George Gilder—the peerless visionary of technology and culture—explains why Silicon Valley is suffering a nervous breakdown and what to expect as the post-Google age dawns.\n\nGoogle’s astonishing ability to “search and sort” attracts the entire world to its search engine and countless other goodies—videos, maps, email, calendars….And everything it offers is free, or so it seems. Instead of paying directly, users submit to advertising. The system of “aggregate and advertise” works—for a while—if you control an empire of data centers, but a market without prices strangles entrepreneurship and turns the Internet into a wasteland of ads.\n\nThe crisis is not just economic. Even as advances in artificial intelligence induce delusions of omnipotence and transcendence, Silicon Valley has pretty much given up on security. The Internet firewalls supposedly protecting all those passwords and personal information have proved hopelessly permeable.\n\nThe crisis cannot be solved within the current computer and network architecture. The future lies with the “cryptocosm”—the new architecture of the blockchain and its derivatives. Enabling cryptocurrencies such as bitcoin and ether, NEO and Hashgraph, it will provide the Internet a secure global payments system, ending the aggregate-and-advertise Age of Google.\n\nSilicon Valley, long dominated by a few giants, faces a “great unbundling,” which will disperse computer power and commerce and transform the economy and the Internet.\n\nLife after Google is almost here.\n",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Mastering Ethereum",
+        "description": "A guide to the operation and use of Ethereum and other EVM-compatible blockchains.",
+        "authors": [
+          "@aantonop",
+          "@gavofyork"
+        ],
+        "tags": [
+          "Smart Contracts",
+          "Dapp"
+        ],
+        "languages": [
+          "Solidity"
+        ],
+        "url": "https://amzn.to/3onZcId",
+        "featured": true,
+        "dateAdded": 1628640000000,
+        "level": "Beginner",
+        "date": 1542067200000,
+        "alternateUrl": "https://github.com/ethereumbook/ethereumbook",
+        "id": "mastering-ethereum",
+        "content": "\nEthereum represents the gateway to a worldwide, decentralized computing paradigm. This platform enables you to run decentralized applications (DApps) and smart contracts that have no central points of failure or control, integrate with a payment network, and operate on an open blockchain. With this practical guide, Andreas M. Antonopoulos and Gavin Wood provide everything you need to know about building smart contracts and DApps on Ethereum and other virtual-machine blockchains.\n\nDiscover why IBM, Microsoft, NASDAQ, and hundreds of other organizations are experimenting with Ethereum. This essential guide shows you how to develop the skills necessary to be an innovator in this growing and exciting new industry.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment",
+        "description": "It's the perfect resource for people who want to break into the smart contract field but don't know where to start.",
+        "authors": [
+          "@Kevinsolorio",
+          "@randallkanna"
+        ],
+        "tags": [
+          "Smart Contracts",
+          "Dapp",
+          "EVM"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3Fai5Tq",
+        "dateAdded": 1640908800000,
+        "level": "Beginner",
+        "date": 1474588800000,
+        "id": "hands-on-smart-contract-development-with-solidity-and-ethereum-from-fundamentals-to-deployment",
+        "featured": false,
+        "content": "\nReady to dive into smart contract development for the blockchain? With this practical guide, experienced engineers and beginners alike will quickly learn the entire process for building smart contracts for Ethereum--the open source blockchain-based distributed computing platform. You'llget up to speed with the fundamentals and quickly move into builder mode.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Out of the Ether",
+        "description": "The Amazing Story of Ethereum and the $55 Million Heist that Almost Destroyed It All",
+        "authors": [
+          "@mattleising"
+        ],
+        "tags": [
+          "Web3"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3A2YMsS",
+        "dateAdded": 1628640000000,
+        "level": "All",
+        "date": 1601337600000,
+        "alternateUrl": "https://www.goodreads.com/book/show/55360267-out-of-the-ether",
+        "id": "out-of-the-ether",
+        "featured": false,
+        "content": "\nDiscover how $55 million in cryptocurrency vanished in one of the most bizarre thefts in history\n\nOut of the Ether: The Amazing Story of Ethereum and the $55 Million Heist that Almost Destroyed It All tells the astonishing tale of the disappearance of $55 million worth of the cryptocurrency ether in June 2016. It also chronicles the creation of the Ethereum blockchain from the mind of inventor Vitalik Buterin to the ragtag group of people he assembled around him to build the second-largest crypto universe after Bitcoin.\n\nCelebrated journalist and author Matthew Leising tells the full story of one of the most incredible chapters in cryptocurrency history. He covers the aftermath of the heist as well, explaining the extreme lengths the victims of the theft and the creators of Ethereum went to in order to try and limit the damage. The book covers:\n\nThe creation of Ethereum\nAn explanation of the nature of blockchain and cryptocurrency\nThe activities of a colorful cast of hackers, coders, investors, and thieves\nPerfect for anyone with even a passing interest in the world of modern fintech or daring electronic heists, Out of the Ether is a story of genius and greed that’s so incredible you may just choose not to believe it.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Proof of Stake",
+        "description": "The Making of Ethereum and the Philosophy of Blockchains",
+        "authors": [
+          "@VitalikButerin"
+        ],
+        "tags": [
+          "PoS",
+          "EVM",
+          "Protocol",
+          "Public Goods"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3vDoDaX",
+        "dateAdded": 1672876800000,
+        "level": "All",
+        "alternateUrl": "https://www.goodreads.com/book/show/59892281-proof-of-stake",
+        "id": "proof-of-stake",
+        "featured": false,
+        "content": "\nAfter Ethereum creator Vitalik Buterin dropped out of college and launched Bitcoin Magazine, he wrote the Ethereum white paper, which proposed an open source protocol that would take what Bitcoin did for money and do it for everything else: contracts, social networks, and sharing economies. Now, less than a decade later, his idea is valued at about half a trillion dollars, and it is the foundation for the weird new world of NFT artworks, virtual real estate, and decentralized autonomous organizations.\n\nThis book is a collection of essays including \"On Free Speech,\" which creates a whole new standard for free speech and how to protect it; \"Prediction Markets: Tales from the Election,\" in which Buterin bets on the Trump-Biden election before and after it was decided, and how the prediction markets help explain the political situation today where so many believe Trump won; and the last essay in the book, \"Crypto Cities,\" where Buterin observes the beginnings already in motion of a future where cities governed through blockchain better serve the public good than governing political institutions do today.\n\nUnderstanding and engaging with Buterin's ideas will be of growing importance as the consequences of his invention continue to unfold and inspire debate worldwide.\n",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Solidity Design Patterns",
+        "description": "An Essential guide to developing Smart contract on Ethereum with Solidity Design Patterns.Solidity design patterns are a critical component of smart contract development, enabling developers to create robust, efficient, and secure decentralized applications.",
+        "authors": [
+          "Crytoineer Inc"
+        ],
+        "tags": [
+          "Smart Contracts",
+          "Design Patterns",
+          "Standards"
+        ],
+        "languages": [
+          "Solidity"
+        ],
+        "url": "https://www.amazon.com/dp/B0BW7PHPZT",
+        "dateAdded": 1677888000000,
+        "level": "Intermediate",
+        "alternateUrl": "https://play.google.com/store/books/details?id=p-auEAAAQBAJ",
+        "id": "solidity-design-patterns",
+        "featured": false,
+        "content": "\nSolidity design patterns are a critical component of smart contract development, enabling developers to create robust, efficient, and secure decentralized applications. \"Solidity Design Patterns - Best Practices & Techniques for Developing Smart Contracts\" is a comprehensive ebook available on Amazon that delves into the various design patterns used in Solidity smart contract development.\n\nThe ebook provides a detailed explanation of popular design patterns like the Security, Gas Optimisation, Proxy, and many more. It also covers the latest design patterns used in the development of decentralized finance (DeFi) applications. The ebook provides a step-by-step guide to help developers understand and implement these patterns to create high-quality smart contracts.\n\nWith Solidity design patterns, developers can create reusable code, minimize errors, and make their smart contracts more secure.The ebook provides practical examples, code snippets, and diagrams to help readers understand and implement these patterns in their projects.\n\nWhether you are a beginner or an experienced developer, \"Solidity Design Patterns - Best Practices & Techniques for Developing Smart Contracts\" is an essential resource that provides a comprehensive guide to developing high-quality smart contracts. With the latest design patterns and best practices, this ebook is a must-have for anyone looking to excel in smart contract development. Get your copy today on Amazon and start building better smart contracts!\n",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Solidity Starters: A Beginners Friendly book",
+        "description": "A Beginners Friendly book to Learn Smart contract development with solidity language, Fundamentals of solidity, Beginners guide to solidity & Ethereum blockchain programming 2022.",
+        "authors": [
+          "Crytoineer Inc"
+        ],
+        "tags": [
+          "Smart Contracts",
+          "EVM"
+        ],
+        "languages": [
+          "Solidity"
+        ],
+        "url": "https://www.amazon.com/dp/B0BHJBF4W2",
+        "dateAdded": 1666915200000,
+        "level": "Beginner",
+        "date": 1666915200000,
+        "alternateUrl": "https://www.amazon.com/dp/B0BHJBF4W2",
+        "id": "solidity-starters",
+        "featured": false,
+        "content": "\nSolidity Starters : A Beginners Friendly book \nLearn Smart contract development with solidity language, Fundamentals of solidity, Beginners guide to solidity & Ethereum blockchain programming 2022\nDive into the exciting world of blockchain development with Solidity, the programming language used by Ethereum.\n\nBlockchain developers are in high demand these days, and the demand is only going to grow. But what skills do you need to become a blockchain developer? How can you start learning about the technology?\n\nLearn to create and deploy your first smart contract and decentralized app.\n\nIn this course, you will learn everything you need to know to create and deploy your first decentralized app with a smart contract. You will get an introduction to Solidity and how smart contracts work, as well as how the Ethereum blockchain stores information. We'll go through tools you can use to deploy your Dapp and write code in Solidity. By the end of the course, you should have an understanding\n\nCreate Web 3 dApps with solidity and use Data Structures to store data in a decentralized ledger.\n\nThis is a book for those interested in creating decentralized applications with Solidity, the programming language for smart contracts. You will learn how to create Dapps that store data in decentralized ledger.\n\nThis practical guide teaches budding Ethereum developers how to create smart contracts and DApps using Solidity.\n\nThis guide will help developers take their first steps in the decentralized world of Ethereum development, teaching them how to create smart contracts and DApps using Solidity, the programming language for Ethereum.\n\nCovers the latest version of Solidity,Build decentralised applications that cannot be censored or shut down.\n\nWith the rise of the internet, we have seen an increase in the use of centralised applications. This has led to many security and censorship problems. Decentralised applications are a solution to these issues. Decentralised applications are typically open-source, have transparent data sharing and management systems, have a consensus mechanism for content submission, allow for privacy and anonymity of users, and do not rely\n\n\nAfter finishing this Book, You will have a solid foundation in Solidity and a high degree of experience, allowing you to start creating and quickly expanding your knowledge.\n",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "The Cryptopians",
+        "description": "Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze",
+        "authors": [
+          "@laurashin"
+        ],
+        "tags": [
+          "Web3"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3JB9I6e",
+        "featured": true,
+        "dateAdded": 1645488000000,
+        "level": "All",
+        "date": 1645488000000,
+        "alternateUrl": "https://www.goodreads.com/book/show/57356067-the-cryptopians",
+        "id": "the-cryptopians",
+        "content": "\nThe story of the idealists, technologists, and opportunists fighting to bring cryptocurrency to the masses.\n\nIn their short history, Bitcoin and other cryptocurrencies have gone through booms, busts, and internecine wars, recently reaching a market valuation of more than $2 trillion. The central promise of crypto endures—vast fortunes made from decentralized networks not controlled by any single entity and not yet regulated by many governments.\n\nThe recent growth of crypto would have been all but impossible if not for a brilliant young man named Vitalik Buterin and his creation: Ethereum. In this book, Laura Shin takes readers inside the founding of this novel cryptocurrency network, which enabled users to launch their own new coins, thus creating a new crypto fever. She introduces readers to larger-than-life characters like Buterin, the Web3 wunderkind; his short-lived CEO, Charles Hoskinson; and Joe Lubin, a former Goldman Sachs VP who became one of crypto’s most well-known billionaires. Sparks fly as these outsized personalities fight for their piece of a seemingly limitless new business opportunity.\n\nThis fascinating book shows the crypto market for what it really is: a deeply personal struggle to influence the coming revolution in money, culture, and power.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "The Infinite Machine",
+        "description": "How an Army of Crypto-hackers Is Building the Next Internet with Ethereum",
+        "authors": [
+          "@CamiRusso"
+        ],
+        "tags": [
+          "Web3"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3a3OfTu",
+        "dateAdded": 1628640000000,
+        "level": "All",
+        "date": 1594684800000,
+        "alternateUrl": "https://www.goodreads.com/book/show/50175330-the-infinite-machine",
+        "id": "the-infinite-machine",
+        "featured": false,
+        "content": "\nWritten with the verve of such works as The Big Short, The History of the Future, and The Spider Network, here is the fascinating, true story of the rise of Ethereum, the second-biggest digital asset in the world, the growth of cryptocurrency, and the future of the internet as we know it.\n\nEveryone has heard of Bitcoin, but few know about the second largest cryptocurrency, Ethereum, which has been heralded as the \"next internet.\"\n\nThe story of Ethereum begins with Vitalik Buterin, a supremely gifted nineteen-year-old autodidact who saw the promise of blockchain when the technology was in its earliest stages. He convinced a crack  group of coders to join him in his quest to make a super-charged, global computer.\n\nThe Infinite Machine introduces Vitalik’s ingenious idea and unfolds Ethereum’s chaotic beginnings. It then explores the brilliant innovation and reckless greed the platform—an infinitely adaptable foundation for experimentation and new applications—has unleashed and the consequences that resulted as the frenzy surrounding it grew: increased regulatory scrutiny, incipient Wall Street interest, and the founding team’s effort to get the Ethereum platform to scale so it can eventually be  accessible to the masses.\n\nFinancial journalist and cryptocurrency expert Camila Russo details the wild and often hapless adventures of a team of hippy-anarchists, reluctantly led by an ambivalent visionary, and lays out how this new foundation for the internet will spur both transformation and fraud—turning some into millionaires and others into felons—and revolutionize our ideas about money.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "The Network State",
+        "description": "How To Start a New Country",
+        "authors": [
+          "@balajis"
+        ],
+        "tags": [
+          "Governance"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/3vGXF28",
+        "dateAdded": 1672876800000,
+        "level": "All",
+        "alternateUrl": "https://www.goodreads.com/book/show/60643059-the-network-state",
+        "id": "the-network-state",
+        "featured": false,
+        "content": "\nWhen the brand new is unthinkable, we fight over the old. That’s where we are today with governments, with politics, and with much of the physical world. But perhaps we can change that.\n\nThis book introduces the concept of the network state: a country you can start from your computer, a state that recruits like a startup, a nation built from the internet rather than disrupted by it.\n\nThe fundamental concept behind the network state is to assemble a digital community and organize it to crowdfund physical territory. But that territory is not in one place — it’s spread around the world, fully decentralized, hooked together by the internet for a common cause, much like Google’s offices or Bitcoin’s miners. And because every citizen has opted in, it’s a model for 100% democracy rather than the minimum threshold of consent modeled by 51% democracies.\n\nOf course, there are countless questions that need to be answered to build something of this scope. How does a network state work socially, technically, logistically, legally, physically, financially? How could such a thing even be viable?\n\nThat’s why you should read this book.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Token Economy",
+        "description": "How the Web3 reinvents the Internet",
+        "authors": [
+          "@sherminvo"
+        ],
+        "tags": [
+          "Web3"
+        ],
+        "languages": [],
+        "url": "https://amzn.to/2WBFXiQ",
+        "featured": true,
+        "dateAdded": 1629849600000,
+        "level": "All",
+        "date": 1592611200000,
+        "alternateUrl": "https://github.com/sherminvo/TokenEconomyBook/wiki",
+        "id": "token-economy",
+        "content": "\nTokens - often referred to as cryptocurrencies - can represent anything from an asset to an access right, such as gold, diamonds, a fraction of a Picasso painting or an entry ticket to a concert. Tokens could also be used to reward social media contributions, incentivize the reduction of CO2 emissions, or even ones attention for watching an ad. While it has become easy to create a token, which is collectively managed by a public Web3 infrastructure like a blockchain network, the understanding of how to apply these tokens is still vague.\n\nThe industry keeps referring to “Blockchain” as different from “Bitcoin,” creating an artificial divide that is often misleading. There seems to be too little understanding about the fact that Bitcoin is a blockchain network, which is (a) globally managed by people who mostly do not know each other, and (b) enabled by the consensus protocol that (c) incentivizes all network actors for their contributions with a native token. The governance rules are tied to the minting of a native blockchain token. The Bitcoin token can, therefore, be seen as the currency of a distributed Internet tribe, called the Bitcoin network, where network actors are rewarded with Bitcoins, just as the Ether is the currency of the distributed Internet tribe Ethereum network, or Sia is the native currency of the Sia network. The Bitcoin network and other distributed ledgers all represent a collectively maintained public infrastructure and are the backbone of the next generation Internet, what the crypto community refers to as the Web3.\n\nThis book attempts to summarize existing knowledge about blockchain networks and other distributed ledgers as the backbone of the Web3, and contextualize the socio-economic implications of the Web3 applications such as smart contracts, tokens, and DAOs to the concepts of money, economics, governance and decentralized finance (DeFi).",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      },
+      {
+        "title": "Upgrading Ethereum",
+        "description": "A technical handbook on Ethereum's move to proof of stake and beyond.",
+        "authors": [
+          "@benjaminion_xyz"
+        ],
+        "tags": [
+          "Ethereum",
+          "Scalability",
+          "PoS"
+        ],
+        "languages": [],
+        "url": "https://eth2book.info/",
+        "dateAdded": 1649376000000,
+        "level": "Beginner",
+        "id": "upgrading-ethereum",
+        "featured": false,
+        "content": "\nThis is a book for those who want to understand Ethereum 2.0 – Ethereum on proof of stake – at a technical level. What does it do? How does it work? Why is it like this?\n\nWho am I writing for? For people like me! People who enjoy understanding how things work. But more than that, who like to know why things are the way they are.\n\nAlthough I am an Eth2 staker, and an Ethereum user, I am not writing primarily for stakers or users here. Some of the generic material on Staking may be relevant (once I have written it), but you will find better help in places like the excellent Ethstaker community.\n\nThe scope of the book concerns (what I consider to be) the Ethereum 2.0 protocol. Ethereum 2.0 has become a less well-defined term recently. But for me, it broadly includes,\n\n- all things proof of stake and the beacon chain,\n- the process of The Merge at which Ethereum 1.0 moves to proof of stake,\n- in-protocol data sharding, and\n- an array of potential future enhancements.\n\nI will not be covering any of the historic Ethereum 1.0 protocol, except as it touches upon The Merge. The Mastering Ethereum book is an excellent resource, and there is no point in duplicating it. Although roll-ups and other so-called layer 2 solutions have rapidly become part of the overall Ethereum 2.0 narrative, they are by definition not in-protocol, and I will not be covering them here. I will not be discussing, DeFi, DAOs, NFTs, or any of the wonderful things that can be built on top of this amazing technology.",
+        "category": {
+          "id": "books",
+          "title": "Books",
+          "description": "Books are still one most popular ways to acquire new knowledge. These books will provide you with a history of the web, a deep understanding of the fundamentals and provide you with everything you need to know about building smart contracts and DApps on Ethereum.",
+          "emoji": "📚"
+        }
+      }
+    ]
+
+}
