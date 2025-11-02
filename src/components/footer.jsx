@@ -7,114 +7,149 @@ import {useNavigate} from "react-router-dom";
 const Box = styled.div`
   background: #262626;
   color: #fff;
-  padding: 40px 0;
+  padding: 60px 0 40px;
 `
 
-const FirstLine = styled.div`
-    display: flex;
-  align-items: center;
-  justify-content: space-between;
-  border-bottom: 1px solid rgba(255,255,255,0.2);
-  padding-bottom: 40px;
-  margin-bottom: 40px;
+const FooterContainer = styled.div`
+  display: flex;
+  gap: 80px;
 `
 
-const LftBox = styled.div`
-  width: 30%;
+const LeftPanel = styled.div`
+  flex: 0 0 calc(33.333% - 53px);
+  display: flex;
+  flex-direction: column;
+
   img{
     height: 40px;
-    margin-bottom: 10px;
+    width: auto;
+    margin-bottom: 20px;
+    object-fit: contain;
+    align-self: flex-start;
   }
+
   .desc{
     opacity: 0.8;
+    line-height: 1.6;
+    margin-bottom: 30px;
   }
-  .copy{
-    font-size: 10px;
-    margin-top: 10px;
-    opacity: 0.6;
-  }
-`
-const MidBox = styled.ul`
-  display: flex;
-  align-items: center;
-  width: 40%;
-  flex-wrap: wrap;
-  height: 100%;
-    li{
-      width: 33.3333333%;
-      margin: 10px 0;
-      cursor: pointer;
+
+  .social-icons{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 30px;
+
+    a{
+      color: #fff;
+      opacity: 0.8;
+      transition: opacity 0.3s ease;
+
+      &:hover{
+        opacity: 1;
+      }
     }
-`
-const RhtBox = styled.div`
-  .tit{
-    margin-bottom: 10px;
+  }
+
+  .copy{
+    font-size: 12px;
+    opacity: 0.6;
+    margin-top: auto;
   }
 `
 
-const SecondLine = styled.div`
-    display: flex;
-  align-items: flex-start;
-  opacity: 0.4;
-  .lft{
-    margin-right: 10px;
+const RightPanel = styled.div`
+  flex: 0 0 calc(66.667% - 27px);
+  display: flex;
+  justify-content: flex-end;
+  gap: 80px;
+`
+
+const ColumnList = styled.div`
+  .column-title{
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 16px;
+    opacity: 0.9;
   }
-  a{
-    color: #fff;
-    margin-right: 20px;
+
+  ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li{
+      margin-bottom: 12px;
+
+      a{
+        color: #fff;
+        opacity: 0.7;
+        text-decoration: none;
+        transition: opacity 0.3s ease;
+
+        &:hover{
+          opacity: 1;
+        }
+      }
+
+      span{
+        cursor: pointer;
+        opacity: 0.7;
+        transition: opacity 0.3s ease;
+
+        &:hover{
+          opacity: 1;
+        }
+      }
+    }
   }
 `
 export default function Footer(){
     const navigate = useNavigate();
     const toGo = (selector) =>{
-        // document.querySelector(selector).scrollIntoView({
-        //     behavior:"smooth"
-        // });
         navigate(selector)
-
     }
 
     return <Box>
         <div className="mainContent">
-            <FirstLine>
-                <LftBox>
-                    <div>
-                        <img src={WhiteImg} alt=""/>
-                        <div className="desc">Our mission is to provide a platform for developers to learn about the blockchain and to provide a community of developers.</div>
+            <FooterContainer>
+                <LeftPanel>
+                    <img src={WhiteImg} alt="Web3Camp Logo"/>
+                    <div className="desc">
+                        Web3Camp.us is a platform that provides tools and resources for Web3 enthusiasts.
                     </div>
-                    <div className="copy">Copyright © 2023 Web3Camp.us </div>
-                </LftBox>
-                <MidBox>
-                    <li onClick={()=>toGo("/")}>Home</li>
-                    {/*<li onClick={()=>toGo("#about")}>About Us</li>*/}
-                    {/*<li onClick={()=>toGo("#join")}>Join Us</li>*/}
-                    <li onClick={()=>toGo("/tools")}>Tools</li>
-                    {/*<li onClick={()=>toGo("#books")}>Recommended</li>*/}
-                    <li onClick={()=>toGo("/tutorial")}>Tutorial</li>
-                    <li onClick={()=>toGo("/tasks")}>Tasks</li>
-
-                </MidBox>
-
-                <RhtBox>
-                    <div className="tit">Follow us</div>
-                    <div>
-
-                        <a href="https://github.com/Web3Camp-Labs" target="_blank" rel="noreferrer"> <FontAwesomeIcon icon={faGithub} style={{color: "#ffffff",fontSize:"24px"}}  /></a>
-                        <a href="https://twitter.com/Web3Camp" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faTwitter} style={{color: "#ffffff",fontSize:"24px",marginLeft:"20px"}}  /></a>
+                    <div className="social-icons">
+                        <a href="https://github.com/Web3Camp-Labs" target="_blank" rel="noreferrer">
+                            <FontAwesomeIcon icon={faGithub} style={{fontSize:"24px"}} />
+                        </a>
+                        <a href="https://twitter.com/Web3Camp" target="_blank" rel="noreferrer">
+                            <FontAwesomeIcon icon={faTwitter} style={{fontSize:"24px"}} />
+                        </a>
                     </div>
-                </RhtBox>
-            </FirstLine>
-            <SecondLine>
-                <div className="lft">
-                    Friends Links :
-                </div>
-                <div>
-                    <a href="https://rebase.network/ " target="_blank" rel="noreferrer">Rebase.network</a>
-                    <a href="https://xdag.io/" target="_blank" rel="noreferrer">XDAG</a>
-                    <a href="https://learnblockchain.cn/" target="_blank" rel="noreferrer">登链社区</a>
-                    <a href="https://daopark.xyz" target="_blank" rel="noreferrer">DAO park</a>
-                </div>
-            </SecondLine>
+                    <div className="copy">© 2024 Web3Camp Labs</div>
+                </LeftPanel>
+
+                <RightPanel>
+                    <ColumnList>
+                        <div className="column-title">Friends</div>
+                        <ul>
+                            <li><a href="https://rebase.network/" target="_blank" rel="noreferrer">Rebase</a></li>
+                            <li><a href="https://xdag.io/" target="_blank" rel="noreferrer">XDAG</a></li>
+                            <li><a href="https://learnblockchain.cn/" target="_blank" rel="noreferrer">登链社区</a></li>
+                            <li><a href="https://openbuild.xyz" target="_blank" rel="noreferrer">OpenBuild</a></li>
+                        </ul>
+                    </ColumnList>
+
+                    <ColumnList>
+                        <div className="column-title">Resources</div>
+                        <ul>
+                            <li><span onClick={()=>toGo("/tools")}>Tools</span></li>
+                            <li><span onClick={()=>toGo("/tutorial")}>Tutorial</span></li>
+                            <li><span onClick={()=>toGo("/tasks")}>Tasks</span></li>
+                            <li><span onClick={()=>toGo("/news")}>News</span></li>
+                        </ul>
+                    </ColumnList>
+                </RightPanel>
+            </FooterContainer>
         </div>
     </Box>
 }
