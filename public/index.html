@@ -44,38 +44,6 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
-    <script>
-      // 处理 GitHub Pages 路由重定向
-      (function() {
-        // 只在生产环境且不是首页时执行
-        if (window.location.hostname === 'web3camp.us' && window.location.pathname !== '/') {
-          const validRoutes = ['/home', '/tutorial', '/tools', '/tasks', '/news'];
-          const currentPath = window.location.pathname;
-          
-          // 检查是否是有效路由
-          if (validRoutes.includes(currentPath)) {
-            // 重定向到首页并传递路由参数
-            window.location.href = '/?route=' + encodeURIComponent(currentPath);
-          }
-        }
-      })();
-    </script>
-    <script>
-      // 处理 GitHub Pages 路由重定向
-      (function() {
-        // 只在生产环境且不是首页时执行
-        if (window.location.hostname === 'web3camp.us' && window.location.pathname !== '/') {
-          const validRoutes = ['/home', '/tutorial', '/tools', '/tasks', '/news'];
-          const currentPath = window.location.pathname;
-          
-          // 检查是否是有效路由
-          if (validRoutes.includes(currentPath)) {
-            // 重定向到首页并传递路由参数
-            window.location.href = '/?route=' + encodeURIComponent(currentPath);
-          }
-        }
-      })();
-    </script>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
