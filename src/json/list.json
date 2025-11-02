@@ -13,7 +13,7 @@
   },
   {
     "href": "https://www.npmjs.com/package/@web3camp/hardhat-metamask-connector",
-    "logo": "./assets/logo/hardhat-metamask-connector.jpg",
+    "logo": "./assets/logo/hardhat-metamask-connector.png",
     "name": "Hardhat Metamask Connector",
     "description": "A Hardhat plugin that enables seamless integration with MetaMask for smart contract development and testing."
   },
