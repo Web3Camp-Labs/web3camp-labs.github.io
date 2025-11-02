@@ -1,9 +1,21 @@
 [
   {
+    "href": "https://web3camp.us/quick-dapp/",
+    "logo": "./assets/logo/quick-dapp.png",
+    "name": "Quick dApp",
+    "description": "Quick dApp allows smart contract developers to quickly create interactive UIs for any Ethereum smart contract by providing ABI and address."
+  },
+  {
     "href": "https://web3camp.us/multisender/",
     "logo": "./assets/logo/multisender.png",
     "name": "Token Batch Sender",
     "description": "It supports sending ERC20 tokens and ETH!"
+  },
+  {
+    "href": "https://www.npmjs.com/package/@web3camp/hardhat-metamask-connector",
+    "logo": "./assets/logo/hardhat-metamask-connector.jpg",
+    "name": "Hardhat Metamask Connector",
+    "description": "A Hardhat plugin that enables seamless integration with MetaMask for smart contract development and testing."
   },
   {
     "href": "https://daopark.xyz/",
@@ -42,7 +54,7 @@
     "description": "The right way to integrate web3 pay"
   },
   {
-    "href": " https://web3camp.us/rpc-list/",
+    "href": "https://web3camp.us/rpc-list/",
     "logo": "./assets/logo/rpc-logo.svg",
     "name": "RPC",
     "description": "This list show all your configured chains."
